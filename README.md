@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.hantv15.cool/hantv15)(https://leetcode.com/u/hantv15/)
+![Leetcode Stats](https://leetcode.card.workers.dev/hantv15?theme=auto&font=&extension=null)
