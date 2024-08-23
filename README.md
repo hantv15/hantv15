@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcode.card.workers.dev/hantv15?theme=auto&font=&extension=null)
+![Leetcode Stats](https://leetcard.jacoblin.cool/hantv15?ext=heatmap&theme=auto&font=&extension=null)
